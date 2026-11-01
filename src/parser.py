@@ -122,7 +122,7 @@ def _detect_years_scale_col_offset(lines: list[str]) -> tuple[list[int], float, 
 
     for line in lines[:100]:
         if "Budjetti" in line and "Toteutunut" in line:
-            # In 3-column layouts the first numeric column can be budget; skip it.
+            # In 3-column layouts the first numeric column can be budget; skip it
             col_offset = 1
             ys = re.findall(r"\b(\d{4})\b", line)
             if len(ys) >= 3:
