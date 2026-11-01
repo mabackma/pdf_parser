@@ -1,0 +1,15 @@
+[
+  {
+    "fiscal_year": 2023,
+    "revenue": 1850000.0,
+    "operating_profit": 245000.0,
+    "profit_before_taxes": 228000.0,
+    "net_profit": 182400.0,
+    "fixed_assets": 520000.0,
+    "current_assets": 380000.0,
+    "total_assets": 900000.0,
+    "equity": 450000.0,
+    "liabilities": 450000.0,
+    "total_equity_and_liabilities": 900000.0
+  }
+]

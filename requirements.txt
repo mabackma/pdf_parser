@@ -1,0 +1,6 @@
+# Core dependencies
+pdfplumber>=0.10.0
+pytest>=8.0.0
+
+# PDF generation (for generating test PDFs)
+reportlab>=4.0.0

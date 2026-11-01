@@ -1,0 +1,28 @@
+[
+  {
+    "fiscal_year": 2024,
+    "revenue": 875432.5,
+    "operating_profit": -42150.75,
+    "profit_before_taxes": -58320.25,
+    "net_profit": -46656.2,
+    "fixed_assets": 312500.0,
+    "current_assets": 198750.0,
+    "total_assets": 511250.0,
+    "equity": 185400.0,
+    "liabilities": 325850.0,
+    "total_equity_and_liabilities": 511250.0
+  },
+  {
+    "fiscal_year": 2023,
+    "revenue": 1245680.75,
+    "operating_profit": 68250.3,
+    "profit_before_taxes": 52430.3,
+    "net_profit": 41944.24,
+    "fixed_assets": 298500.0,
+    "current_assets": 259556.2,
+    "total_assets": 558056.2,
+    "equity": 232056.2,
+    "liabilities": 326000.0,
+    "total_equity_and_liabilities": 558056.2
+  }
+]
